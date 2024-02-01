@@ -36,7 +36,18 @@ Certainly! In my project, I performed an in-depth data analysis on an IMDb datas
 7. In the dataset total 3597 movies were colour movie and 128 were black&white.
 
 
-## 
+## Conclusion:
+In conclusion, the comprehensive data analysis of the IMDb dataset has provided valuable insights into the world of movies. The examination of top movie-producing country revealed that is USA. Delving into revenue generation by genre showcased "Action " with total of 67 billion of gross revenue. Spec, and the identification of the highest-grossing movie illuminated "Avatar of total 523 million total revenue .
+
+Exploring the dataset further, the analysis uncovered total 63 sequal were released with "Shrek 2" with earn maximum revenue. In addition, the examination of IMDb ratings highlighted "The Shawshank Redemption" with 9.3 rating.
+
+Distinguishing between color and black-and-white movies unveiled 3597 were colour movie and 128 were black&white , while scrutinizing movie production over the years showcased 2002 and 2006 with 189 movies.
+
+Overall, this project not only answered specific questions but also provided a holistic understanding of the IMDb dataset, allowing for a nuanced exploration of trends and patterns in the film industry, this will also help the film maker and directors.
+
+## Created by:
+- Siddhant Singh
+- [@siddhant1601](https://github.com/siddhant1601)
 
 
 
